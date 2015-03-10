@@ -1,0 +1,89 @@
+C:\Users\Hans Teh Gamer\Desktop\SourcePawn Studio\SourcePawn IDE\bin\Release\SourcePawn IDE.exe.config
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\SourcePawn IDE.exe.config
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\AdmFlags.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\CommandDesign.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\ConVarDialog.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\MainWindow.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\ScriptGenerator.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SearchReplace.baml
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\AdmFlags.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\CommandDesign.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\ConVarDialog.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\MainWindow.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\ScriptGenerator.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SearchReplace.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\App.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE_Content.g.cs
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE_MarkupCompile.cache
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.g.resources
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn_IDE.Properties.Resources.resources
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.csproj.GenerateResource.Cache
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.exe
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.pdb
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\spcomp.exe
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\admin.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\adminmenu.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\adt.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\adt_array.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\adt_stack.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\adt_trie.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\banning.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\bitbuffer.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\clientprefs.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\clients.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\commandfilters.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\console.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\core.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\cstrike.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\datapack.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\dbi.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\entity.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\entity_prop_stocks.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\events.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\files.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\float.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\functions.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\geoip.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\halflife.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\handles.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\helpers.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\keyvalues.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\lang.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\logging.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\mapchooser.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\menus.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\nextmap.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\profiler.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\regex.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_engine.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_entinput.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_entoutput.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_functions.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_hooks.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_sound.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_stocks.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_stringtables.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_tempents.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_tempents_stocks.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_trace.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sdktools_voice.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sorting.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\sourcemod.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\string.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\textparse.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\tf2.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\tf2_stocks.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\timers.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\topmenus.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\usermessages.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\vector.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\include\version.inc
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\SourcePawn IDE.exe.manifest
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\SourcePawn IDE.application
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\SourcePawn IDE.exe
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\SourcePawn IDE.pdb
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\bin\Release\ICSharpCode.AvalonEdit.dll
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.exe.manifest
+D:\Documents\GitHub\SourcePawn_IDE\SourcePawn IDE\obj\x86\Release\SourcePawn IDE.application

@@ -1,0 +1,23 @@
+﻿<Window x:Class="SourcePawn_IDE.ConVarDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ConVar Designer" Height="330" Width="284" ResizeMode="NoResize" WindowStyle="ToolWindow" ShowInTaskbar="False">
+    <Grid Height="298">
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,14,0,0" Name="cmd" VerticalAlignment="Top" Width="153" />
+        <Label Content="Command:" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Value:" Height="28" HorizontalAlignment="Left" Margin="12,46,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Description:" Height="28" HorizontalAlignment="Left" Margin="12,80,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Minimum value:" Height="28" HorizontalAlignment="Left" Margin="12,136,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Maximum value:" Height="28" HorizontalAlignment="Left" Margin="12,192,0,0" Name="label7" VerticalAlignment="Top" />
+        <CheckBox Content="Use minimum value" Height="16" HorizontalAlignment="Left" Margin="12,114,0,0" Name="UseMinVal" VerticalAlignment="Top" />
+        <CheckBox Content="Use maximum value" Height="16" HorizontalAlignment="Left" Margin="12,170,0,0" Name="UseMaxVal" VerticalAlignment="Top" />
+        <Label Content="Handle:" Height="28" HorizontalAlignment="Left" Margin="12,226,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,82,0,0" Name="desc" VerticalAlignment="Top" Width="153" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,136,0,0" Name="MinVal" VerticalAlignment="Top" Width="153" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,194,0,0" Name="MaxVal" VerticalAlignment="Top" Width="153" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,228,0,0" Name="handle" VerticalAlignment="Top" Width="153" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="12,265,0,0" Name="BtnCancel" VerticalAlignment="Top" Width="75" Click="BtnCancel_Click" />
+        <Button Content="Ok" Height="23" HorizontalAlignment="Left" Margin="191,263,0,0" Name="BtnOk" VerticalAlignment="Top" Width="75" Click="BtnOk_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,48,0,0" Name="Value" VerticalAlignment="Top" Width="153" />
+    </Grid>
+</Window>
